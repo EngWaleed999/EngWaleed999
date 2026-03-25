@@ -33,6 +33,3 @@ I design and build scalable backend systems with a strong focus on performance, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngWaleed999&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
-### 📫 How to reach me
-- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/waleed-alodiny-290700173?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-
