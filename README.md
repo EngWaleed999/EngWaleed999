@@ -34,5 +34,5 @@ I design and build scalable backend systems with a strong focus on performance, 
 </p>
 
 ### 📫 How to reach me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/waleed-alodiny-290700173?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+
