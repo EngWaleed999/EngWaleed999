@@ -16,7 +16,9 @@ __        __     _               _
 ### `console.log("Logic remains constant, but code evolves")`
 
 
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2200&pause=700&color=58A6FF&multiline=true&repeat=true&width=520&height=240&lines=Initializing...;while+(noSuccess)+%7B;tryAgain()%3B;Still+failing...;if+(dead)+%7B;break%3B;%7D;%7D;Rebuilding+logic...;while+(noSuccess)+%7B;tryAgain()%3B;if+(dead)+%7B;break%3B;%7D;%7D" alt="Typing SVG" />
+</div>
 
 
 
