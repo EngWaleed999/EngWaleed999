@@ -9,7 +9,6 @@ __        __     _               _
 
 ```
 
----
 
 **Backend Engineer | Building Scalable APIs with Node.js & TypeScript**
 
